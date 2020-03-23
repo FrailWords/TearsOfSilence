@@ -6,4 +6,3 @@ copyright=" "
 
 [params]
   scheme = "gray" # light, dark, gray or preference
-  description = "email: <a href="mailto:info@tearsofsilence.com">info@tearsofsilence.com</a>"
